@@ -1,4 +1,4 @@
-module github.com/dezhishen/onebot-plus-plugin-template
+module github.com/chi2nagisa/onebot-plus-plugin-chatbot
 
 go 1.20
 
